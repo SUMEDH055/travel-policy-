@@ -1,2 +1,2 @@
 # travel-policy-
-travel policy project 
+Teachers Travel Policy Project 
